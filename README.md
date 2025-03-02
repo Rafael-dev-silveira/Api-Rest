@@ -11,15 +11,19 @@
 - [ ] Deve ser possível identificarmos o usuário entre as requisições;
 - [ ] O usuário só pode visualizar transações o qual ele criou;
 
-<!--START_SECTION:footer-->
 
-<br />
-<br />
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
 
-<!--END_SECTION:footer-->
+Ferramentas Utilizadas :
+=
+FASTIFY : Um microframework para a criação de API no Node.js
+
+KNEX : Uma biblioteca SQL query builder para Node.js, que facilita a manipulação e a integração de bancos de dados de forma eficiente e intuitiva
+
+TypeScript : Linguagem de programação de código aberto que adiciona tipagem estática ao JavaScript, permitindo maior segurança e escalabilidade no desenvolvimento de aplicações
+
+ZOD : Biblioteca de validação e tipagem de esquema para Node.js, que ajuda a garantir a integridade dos dados de entrada e saída em aplicações JavaScript e TypeScript
+
+PostGreSql : Banco de dados
+
+Vitest : Testes automatizados
