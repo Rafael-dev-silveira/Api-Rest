@@ -27,3 +27,8 @@ ZOD : Biblioteca de validação e tipagem de esquema para Node.js, que ajuda a g
 PostGreSql : Banco de dados
 
 Vitest : Testes automatizados
+
+Conclusão :
+=
+
+Projeto Criado com a RocketSeat,onde estudo atualmente .
